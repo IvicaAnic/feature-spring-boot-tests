@@ -10,4 +10,7 @@ $ mvn spring-boot:run
 
 $ curl -v localhost:8080/books
 ```
-<img src='spring-rest-logo.png' width=20% height=20%> <img src='img.png' width=20% height=20%> <img src='project_dir.png' width=20% height=20%>
+<img src='project_dir.png' width=40% height=40%> <br>
+<img src='spring-rest-logo.png' width=40% height=40%> <br>
+<img src='img.png' width=40% height=40%>  <br>
+

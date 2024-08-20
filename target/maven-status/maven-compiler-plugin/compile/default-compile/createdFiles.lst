@@ -1,0 +1,7 @@
+com\ivica\anic\error\BookUnSupportedFieldPatchException.class
+com\ivica\anic\error\CustomGlobalExceptionHandler.class
+com\ivica\anic\StartBookApplication.class
+com\ivica\anic\BookController.class
+com\ivica\anic\Book.class
+com\ivica\anic\BookRepository.class
+com\ivica\anic\error\BookNotFoundException.class
